@@ -5,7 +5,7 @@
 * Test Runner
 	* Jasmine
 	* Chai
-	
+
 # Functional programming
 * currying
 * FRP
@@ -52,6 +52,7 @@
 * Go
 * Rust
 * Clojurescript
+
 # Relational DB
 * MySQL
 
