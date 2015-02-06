@@ -1,11 +1,15 @@
 # TDD
 * frameworks
 	* Karma
+	* Mocha
 * Test Runner
 	* Jasmine
-
+	* Chai
+	
 # Functional programming
 * currying
+* FRP
+* UI Patterns
 
 # Async
 * promises & deferred objects
@@ -15,11 +19,14 @@
 
 # Libraries
 * Bacon.js
+* rx.js
 * D3.js
 * underscore.js && loDash.js
 
-# CommonJS && AMD
-* Browserify && System.js
+# Module Patterns Implementaions
+* ES6 Export/Import
+* Browserify 
+* System.js
 * Require.js
 
 # Frameworks
@@ -29,6 +36,9 @@
 * React && native react
 
 # ES6
+* Classes
+* Getters/Setters
+* Generators
 
 # CSCI Data structs
 * Trees
@@ -41,13 +51,16 @@
 # Programming Lang
 * Go
 * Rust
-
+* Clojurescript
 # Relational DB
 * MySQL
 
 # Dev Ops
+* Vagrant
+* Docker
+* Provisioning (ansible, puppet, chef)
 * Advanced UNIX commands
-* Load balancing
+* Load balancing, rolling updates
 * NGINX web server
 * Indexing
 	* Redis ?
