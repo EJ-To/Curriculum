@@ -72,3 +72,10 @@
 * Docker
 * Advanced UNIX commands
 * NGINX web server
+
+# Remote Working Practices
+* Web Collaboration Softwares
+* Mumble/IRC server setup
+* Pair Programming
+* Proper Git Flow
+* Code Review Techniques
