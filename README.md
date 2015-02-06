@@ -1,39 +1,43 @@
-# TDD
-* frameworks
+# JS Testing
+* Frameworks
 	* Karma
 	* Mocha
 * Test Runner
 	* Jasmine
 	* Chai
 
-# Functional programming
-* currying
+# Functional Programming
+* Currying
 * FRP
 * UI Patterns
 
 # Async
-* promises & deferred objects
+* Promises & Deferred objects
 	* q.js
-* Node Streams
 * Async await
 
-# Libraries
+# Node
+* Streams
+* OAuth
+* Node CMS
+
+# JS Libraries
 * Bacon.js
 * rx.js
 * D3.js
-* underscore.js && loDash.js
+* Underscore.js & loDash.js
 
-# Module Patterns Implementaions
+# Module Patterns Implementations
 * ES6 Export/Import
-* Browserify 
+* Browserify
 * System.js
 * Require.js
 
 # Frameworks
 * Backbone.js
-* Angular 1.6 vs 2.0
+* Angular 1.6 & 2.0
 * Polymer
-* React && native react
+* React & native react
 
 # ES6
 * Classes
@@ -44,25 +48,27 @@
 * Trees
 
 # CSCI Algorithms
+* Big Oh & Complexity
 
 # Web Performance
-* V8
+* V8 JS engine
 
 # Programming Lang
 * Go
 * Rust
+* Scala
 * Clojurescript
 
 # Relational DB
 * MySQL
 
 # Dev Ops
+* Scalability
+* Indexing &Load balancing
+	* Redis
+* Rolling updates
+* Provisioning (ansible, puppet, chef)
 * Vagrant
 * Docker
-* Provisioning (ansible, puppet, chef)
 * Advanced UNIX commands
-* Load balancing, rolling updates
 * NGINX web server
-* Indexing
-	* Redis ?
-* ^ scalability...
