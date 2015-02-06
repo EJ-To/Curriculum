@@ -1,15 +1,15 @@
 # TDD
 * frameworks
-** Karma
+	* Karma
 * Test Runner
-** Jasmine
+	* Jasmine
 
 # Functional programming
 * currying
 
 # Async
 * promises & deferred objects
-** q.js
+	* q.js
 * Node Streams
 * Async await
 
@@ -50,5 +50,5 @@
 * Load balancing
 * NGINX web server
 * Indexing
-** Redis ?
+	* Redis ?
 * ^ scalability...
