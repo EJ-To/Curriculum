@@ -45,7 +45,9 @@
 * Generators
 
 # CSCI Data structs
-* Trees
+* Binary Trees
+* Heaps
+* Hash table
 
 # CSCI Algorithms
 * Big Oh & Complexity
