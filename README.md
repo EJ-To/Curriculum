@@ -74,6 +74,8 @@
 * Docker
 * Advanced UNIX commands
 * NGINX web server
+* Coninuous Integration/Delivery
+	* Travis CI, Jenkins CI
 
 # Remote Working Practices
 * Web Collaboration Softwares
