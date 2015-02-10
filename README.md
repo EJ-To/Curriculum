@@ -76,6 +76,8 @@
 * NGINX web server
 * Coninuous Integration/Delivery
 	* Travis CI, Jenkins CI
+* Service/Server Monitoring
+	* Prometheus
 
 # Remote Working Practices
 * Web Collaboration Softwares
