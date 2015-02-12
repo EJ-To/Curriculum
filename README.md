@@ -34,7 +34,7 @@
 * Require.js
 
 # Frameworks
-* Backbone.js
+* Ampersand.js
 * Angular 1.6 & 2.0
 * Polymer
 * React & native react
