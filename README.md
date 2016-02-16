@@ -5,6 +5,9 @@
 * Test Runner
 	* Jasmine
 	* Chai
+		* Chai immutable
+* Code Coverage
+	* Istanbul
 
 # Functional Programming
 * Currying
@@ -25,7 +28,10 @@
 * Bacon.js
 * rx.js
 * D3.js
-* Underscore.js & loDash.js
+* Functional Libraries
+ * Underscore
+ * Lodash
+ * Ramda
 
 # Module Patterns Implementations
 * ES6 Export/Import
@@ -33,24 +39,31 @@
 * System.js
 * Require.js
 
-# Frameworks
+# Frameworks & Libraries
+* React
+* Redux
+* React Native
+* Angular 1.x
+* Angular 2
 * Ampersand.js
-* Angular 1.6 & 2.0
 * Polymer
-* React & native react
 
 # ES6
 * Classes
 * Getters/Setters
 * Generators
 
-# CSCI Data structs
+# CSCI Data Structures
 * Binary Trees
 * Heaps
 * Hash table
+* ImmutableJS
+ * Record
+ * Map
+ * List
 
 # CSCI Algorithms
-* Big Oh & Complexity
+* Big O & Complexity
 
 # Web Performance
 * V8 JS engine
@@ -60,11 +73,17 @@
 * Rust
 * Scala
 * Clojurescript
+* TypeScript
 
-# Relational DB
+# Databases
 * MySQL
+* PostgreSQL
+* MongoDB
+ * Mongoose schemas
 
 # Dev Ops
+* Coninuous Integration/Delivery
+	* Travis CI, Circle-CI, Jenkins CI
 * Scalability
 * Indexing &Load balancing
 	* Redis
@@ -74,8 +93,7 @@
 * Docker
 * Advanced UNIX commands
 * NGINX web server
-* Coninuous Integration/Delivery
-	* Travis CI, Jenkins CI
+* AppleScript scripting & Fish shell scripting
 * Service/Server Monitoring
 	* Prometheus
 
